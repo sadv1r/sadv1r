@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadv1r&show_icons=true&layout=compact" alt="sadv1r" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadv1r&show_icons=true&layout=compact&theme=transparent" alt="sadv1r" align="right" />
 
 ### 👋 Hi, I'm Dmitry
 Professional If-Else Developer
@@ -11,5 +11,5 @@ Professional If-Else Developer
 <details>
   <summary>✨ Github Stats</summary>
   <br />
-  <img align="left" alt="Sadv1r's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sadv1r&show_icons=true" />
+  <img align="left" alt="Sadv1r's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sadv1r&show_icons=true&theme=transparent" />
 </details>
