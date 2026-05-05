@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadv1r&show_icons=true&theme=transparent" alt="Sadv1r's Github Most Used Languages" align="right" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=sadv1r&show_icons=true&theme=transparent" alt="Sadv1r's Github Most Used Languages" align="right" />
 
 ### 👋 Hi, I'm Dmitry
 Professional If-Else Developer
@@ -8,4 +8,4 @@ Professional If-Else Developer
 <a href="https://linkedin.com/in/sadv1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/sadv1r/sadv1r/main/linkedin.svg" alt="sadv1r" height="30" width="40" /></a>
 
 ### ✨ Github Stats
-<img align="left" alt="Sadv1r's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sadv1r&show_icons=true&theme=transparent" />
+<img align="left" alt="Sadv1r's Github Stats" src="https://github-stats-extended.vercel.app/api?username=sadv1r&show_icons=true&theme=transparent" />
